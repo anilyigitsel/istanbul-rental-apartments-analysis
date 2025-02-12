@@ -33,13 +33,13 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 The dataset used in this project is sourced from **Samet Şentürken's "Istanbul Rental Apartments Dataset (2025)"** on Kaggle and is originally licensed under **CC BY-SA 4.0**.  
 The dataset's original license details can be found [here](https://creativecommons.org/licenses/by-sa/4.0/).
 
-## Requirements
-To run this project, the following Python libraries are required:
-- pandas
-- matplotlib
-- seaborn
+## How to Use
 
-You can install the required libraries using pip:
-
-```bash
-pip install pandas matplotlib seaborn
+1. Clone this repository to your local machine.
+2. Install the required libraries by running the following command:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/samet-senturken/istanbul-rental-apartments-dataset-2025) and place it in the `data` folder.
+4. Make sure the dataset file is named `istanbul_rental_apartments.csv` and is located in the `data` folder.
+5. Open and run the Jupyter notebooks or Python scripts to see the analysis and visualizations.
