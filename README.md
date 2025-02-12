@@ -1,4 +1,4 @@
-# Istanbul Rental Apartments Dataset Analysis
+# Istanbul Rental Apartments Analysis
 
 ## Project Overview
 This project analyzes the **Istanbul Rental Apartments Dataset (2025)**, which includes rental apartment listings from Istanbul, Turkey. The dataset contains detailed information about rental properties, such as the district, neighborhood, number of rooms, apartment size in square meters, building age, floor number, and rental price in Turkish Lira (TRY).
