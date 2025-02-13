@@ -16,7 +16,7 @@ In this analysis, we explored the districts with the highest average rental pric
 
 We observed a direct correlation between floor level and rental prices. Higher-floor apartments typically demand higher rents, with ground-floor apartments also showing significant prices due to their location and amenities.
 
-![Impact of Floor Level on Rental Prices](/Users/anilyigitsel/Documents/personal/dev/istanbul-rental-analysis/visuals/avg_price_floor.png)
+![Impact of Floor Level on Rental Prices](visuals/avg_price_floor.png)
 
 ---
 
@@ -24,7 +24,7 @@ We observed a direct correlation between floor level and rental prices. Higher-f
 
 This analysis reveals that Adalar ranks the highest in price per square meter, followed by Beşiktaş and Sarıyer. Despite Adalar's smaller apartment sizes, its rental prices are substantially higher per square meter.
 
-![Price Per Square Meter by District](/Users/anilyigitsel/Documents/personal/dev/istanbul-rental-analysis/visuals/average_price_m2.png)
+![Price Per Square Meter by District](visuals/average_price_m2.png)
 
 ---
 
@@ -32,7 +32,7 @@ This analysis reveals that Adalar ranks the highest in price per square meter, f
 
 Adalar and Beyoğlu have the oldest buildings on average, reflecting their historical significance. However, older buildings come with the potential risk of structural issues, especially regarding earthquake resilience.
 
-![Building Age and Structural Risks](/Users/anilyigitsel/Documents/personal/dev/istanbul-rental-analysis/visuals/avg_building_age.png)
+![Building Age and Structural Risks](visuals/avg_building_age.png)
 
 ---
 
@@ -40,10 +40,10 @@ Adalar and Beyoğlu have the oldest buildings on average, reflecting their histo
 
 A comprehensive comparison between the European and Asian sides of Istanbul shows a marked difference in rental prices, building ages, and price per square meter, with the European side leading in all categories.
 
-![European vs. Asian Side Rental Prices](/Users/anilyigitsel/Documents/personal/dev/istanbul-rental-analysis/visuals/avg_price_region.png)
+![European vs. Asian Side Rental Prices](visuals/avg_price_region.png)
 
-![European vs. Asian Side Building Ages](/Users/anilyigitsel/Documents/personal/dev/istanbul-rental-analysis/visuals/avg_age_region.png)
+![European vs. Asian Side Building Ages](visuals/avg_age_region.png)
 
-![European vs. Asian Side Price/m²](/Users/anilyigitsel/Documents/personal/dev/istanbul-rental-analysis/visuals/avg_price_m2_region.png)
+![European vs. Asian Side Price/m²](visuals/avg_price_m2_region.png)
 
 ---
