@@ -8,7 +8,7 @@ In this file, you will find detailed analysis and corresponding visualizations o
 
 In this analysis, we explored the districts with the highest average rental prices in Istanbul. Beşiktaş, Adalar, and Sarıyer emerged as the top three districts with the highest rental prices.
 
-![Highest Average Rental Prices by District](/Users/anilyigitsel/Documents/personal/dev/istanbul-rental-analysis/visuals/avg_price_district.png)
+![Highest Average Rental Prices by District](visuals/avg_price_district.png)
 
 ---
 
