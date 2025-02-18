@@ -46,7 +46,7 @@ The dataset's original license details can be found [here](https://creativecommo
 
 # 🧑‍💼 Analysis Results: Istanbul Rental Market
 
-In this file, you will find detailed analysis and corresponding visualizations on various aspects of the rental market in Istanbul.
+Here is the detailed analysis and corresponding visualizations on various aspects of the rental market in Istanbul.
 
 ---
 
